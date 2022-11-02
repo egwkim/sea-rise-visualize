@@ -1,0 +1,5 @@
+name: geography
+dependencies:
+  - ipykernel
+  - geopandas
+  - rasterio
