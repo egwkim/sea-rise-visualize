@@ -5,3 +5,6 @@ __pycache__/
 
 # Geographic data
 data/
+
+# Output files
+out/
