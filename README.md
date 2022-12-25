@@ -11,3 +11,9 @@ https://visibleearth.nasa.gov/collection/1484/blue-marble
 https://www.naturalearthdata.com/downloads/10m-physical-vectors/
 
 https://www.ngdc.noaa.gov/mgg/shorelines/gshhs.html
+
+## Nanum font
+
+https://github.com/naver/nanumfont
+
+Licensed under [OFL](https://github.com/naver/nanumfont/wiki/Open-Font-License)
